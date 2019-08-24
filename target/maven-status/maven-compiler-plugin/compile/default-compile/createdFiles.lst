@@ -1,0 +1,12 @@
+com\ianhes\javaServlets\view\EscolhaView.class
+com\ianhes\javaServlets\view\ComponentesView.class
+com\ianhes\javaServlets\view\DeleteView.class
+com\ianhes\javaServlets\view\ListaView.class
+com\ianhes\javaServlets\view\ErrorView.class
+com\ianhes\javaServlets\modelo\Cliente.class
+com\ianhes\javaServlets\view\ExitView.class
+com\ianhes\javaServlets\baseDados\Base.class
+com\ianhes\javaServlets\view\ApresentacaoView.class
+com\ianhes\javaServlets\view\InserirView.class
+com\ianhes\javaServlets\view\MenuView.class
+com\ianhes\javaServlets\controlador\Controlador.class
